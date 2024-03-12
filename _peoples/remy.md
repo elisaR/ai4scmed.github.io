@@ -6,4 +6,4 @@ permalink: /people/elisabeth_remy
 position: "Permanent researcher"
 ---
 
-**Elisabeth Remy**
+**Elisabeth Remy** is a senior CNRS researcher
